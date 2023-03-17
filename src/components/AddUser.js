@@ -36,7 +36,7 @@ class AddUser extends React.Component{
                 this.props.onAdd(this.userAdd)          
             
             }
-            }>Добавить</button>
+            }>Добавить!</button>
         </form>    
        )
     }
